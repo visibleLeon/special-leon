@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 2\Visual Studio 2010\Snippets\VB\2052\ASP.NET MVC 2\mvcpostaction.snippet: 缺少或未指定语言特性
